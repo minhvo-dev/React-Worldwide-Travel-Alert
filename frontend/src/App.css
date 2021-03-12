@@ -1,0 +1,25 @@
+#animation-container img {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: calc(50% - 100px);
+  left: calc(50% - 100px);
+}
+
+#animation-container img:nth-child(1) {
+  transform: scale(0.90);
+  transform-origin: center;
+}
+
+#animation-container img:nth-child(2) {
+  animation: spin 10s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
