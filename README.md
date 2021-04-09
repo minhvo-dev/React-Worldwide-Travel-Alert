@@ -1,9 +1,10 @@
-# WORLDWIDE TRAVEL ALERT
+# [WORLDWIDE TRAVEL ALERT][application-link]
 
-_Even after the worst storms, ~~the sun will shine again~~ **there are many more to come**. So keep calm and stay home._ 😉   
-https://worldwide-travel-alert.herokuapp.com
+<h6 align="right">
+  <i>Even after the worst storms, <strike>the sun will shine again</strike> <b>there are many more to come</b>. So keep calm and stay home. 😉</i>
+</h6>
 
-## Table of Content
+## Table of Contents
 - [Overview](#Overview)
 - [Installation](#Installation)
 - [Notes](#Notes)
