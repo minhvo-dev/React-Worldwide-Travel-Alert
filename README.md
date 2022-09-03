@@ -57,7 +57,7 @@
 - Special thanks to [Professor Evan Lauersen][evan-lauersen-github] for his detailed instruction.
 - Special thanks to a weird person for motivating me to finish this project before the deadline.
 
-[application-link]: https://worldwide-travel-alert.herokuapp.com
+[application-link]: https://github.com/minhvo-dev/React-Worldwide-Travel-Alert
 [government-database-link]: http://data.international.gc.ca/travel-voyage/index-alpha-eng.json   
 [create-react-app-repo]: https://github.com/facebook/create-react-app
 [material-ui-website]: https://material-ui.com/  
